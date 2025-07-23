@@ -17,4 +17,4 @@ A: I may extend some dialogue tweaks to the NPC banters with Edwina. Though each
 
 ## CREDITS
 
-* *Kantz* for saving my files & sending them my way so I could reuploaded them. 
+* A big thank you to *Kantz* for saving my files & sending them back my way so I could reuploaded them.
